@@ -9,8 +9,8 @@ An AI voice agent for Home Credit that calls existing customers about a pre-appr
 | Item | Link |
 |------|------|
 | System prompt | [`system_prompt.md`](./system_prompt.md) |
-| Live agent (Retell Voice Orb link) | PASTE_RETELL_LINK_HERE |
-| Screen recording, call recordings and transcripts (Google Drive) | PASTE_DRIVE_LINK_HERE |
+| Live agent (Retell Voice Orb link) | https://agent.retellai.com/orb/agent_7eb3ad402d33cb5e6d360b2f38?token=4a95b4d11a4b6456501348a94b9401ee |
+| Screen recording, call recordings and transcripts (Google Drive) |https://drive.google.com/file/d/1ANXsL28teF_-rPFFjjsYC-DD4S-TsGHg/view?usp=sharing |
 | Test scenarios and results | [`test_scenarios.md`](./test_scenarios.md) |
 
 **Voice platform:** Retell AI (single-prompt voice agent)
