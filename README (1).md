@@ -1,6 +1,6 @@
 # Home Credit LAP Pre-Qualification AI Voice Agent
 
-Assignment submission for **AI Intern (Prompt Engineer)** at SalesAgents AI.
+
 
 An AI voice agent for Home Credit that calls existing customers about a pre-approved Loan Against Property (LAP) offer of up to 75 lakh. It verifies the customer, collects 7 eligibility data points, disqualifies ineligible customers immediately, routes existing-loan and EMI-reduction cases to a transfer specialist, and hands qualified leads to a senior loan expert.
 
